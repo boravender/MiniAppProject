@@ -8,3 +8,7 @@
 
     Dice Game
     Xylophone(버튼 속성 변경 미구현)
+
+*200916*
+
+    Xylophone 버튼 속성 변경
