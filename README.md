@@ -12,3 +12,8 @@
 *200916*
 
     Xylophone 버튼 속성 변경
+
+*200917*
+
+    EggTimer
+    BMI-Calculator
